@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Simple streaming music converter
+
+auth:
+  client:
+    id: ${CLIENT_ID}
+    secret: ${CLIENT_SECRET}
